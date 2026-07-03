@@ -1,0 +1,8 @@
+numpy
+scipy
+mne
+wfdb
+matplotlib
+torch
+onnx
+onnxruntime

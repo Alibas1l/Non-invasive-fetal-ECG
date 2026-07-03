@@ -1,0 +1,131 @@
+:root {
+  --ink-primary: #1f2937;
+  --ink-secondary: #4b5563;
+  --ink-muted: #9ca3af;
+  --surface: #ffffff;
+  --surface-alt: #f9fafb;
+  --border: #e5e7eb;
+  --accent: #2563eb;
+  --signal-color: #6b7280;
+  --wave-color: #dc2626;
+  --qrs-color: #2563eb;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--ink-primary);
+  background: var(--surface-alt);
+}
+
+main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 32px 20px 64px;
+}
+
+h1 {
+  font-size: 22px;
+  margin-bottom: 4px;
+}
+
+.subtitle {
+  color: var(--ink-secondary);
+  font-size: 14px;
+  line-height: 1.5;
+  margin-top: 0;
+  max-width: 640px;
+}
+
+.upload-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.file-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.file-label input[type="file"] {
+  font-size: 14px;
+}
+
+.csv-hint {
+  color: var(--ink-muted);
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.status {
+  font-size: 13px;
+  margin-top: 12px;
+  color: var(--ink-secondary);
+  min-height: 18px;
+}
+
+.status.error {
+  color: #b91c1c;
+}
+
+.results {
+  margin-top: 24px;
+}
+
+.metric-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.metric {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.metric-label {
+  display: block;
+  font-size: 12px;
+  color: var(--ink-secondary);
+  margin-bottom: 6px;
+}
+
+.metric-value {
+  display: block;
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--ink-primary);
+}
+
+.chart-block {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.chart-block h2 {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink-secondary);
+  margin: 0 0 10px;
+}
+
+canvas {
+  width: 100%;
+  height: auto;
+  display: block;
+}

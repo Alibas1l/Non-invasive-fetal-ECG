@@ -1,0 +1,25 @@
+# Environments
+.venv/
+env/
+
+# CLI & Editor tools
+.claude/
+.vscode/
+__pycache__/
+*.pyc
+
+# Data
+data/non-invasive-fetal-ecg-database-1.0.0/
+*.dat
+*.csv
+*.hea
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+#.venv/
+non-invasive-fetal-ecg-database-1.0.0/
+*.dat
+*.hea
+*.csv

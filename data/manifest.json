@@ -1,0 +1,1033 @@
+{
+  "records": [
+    {
+      "record": "ecgca102",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 270.0,
+      "n_samples": 270000,
+      "n_qrs_annotations": 375,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca115",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 730.0,
+      "n_samples": 730000,
+      "n_qrs_annotations": 1146,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca127",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 720.0,
+      "n_samples": 720000,
+      "n_qrs_annotations": 1036,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca154",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 318.0,
+      "n_samples": 318000,
+      "n_qrs_annotations": 435,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca192",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 312.0,
+      "n_samples": 312000,
+      "n_qrs_annotations": 431,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca244",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 685.0,
+      "n_samples": 685000,
+      "n_qrs_annotations": 955,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca252",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 620.0,
+      "n_samples": 620000,
+      "n_qrs_annotations": 963,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca274",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 396.0,
+      "n_samples": 396000,
+      "n_qrs_annotations": 592,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca290",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 1215.0,
+      "n_samples": 1215000,
+      "n_qrs_annotations": 1735,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca300",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 144.0,
+      "n_samples": 144000,
+      "n_qrs_annotations": 211,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca308",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 695.0,
+      "n_samples": 695000,
+      "n_qrs_annotations": 987,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca323",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 414.0,
+      "n_samples": 414000,
+      "n_qrs_annotations": 610,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca368",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 450.0,
+      "n_samples": 450000,
+      "n_qrs_annotations": 641,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca384",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 500.0,
+      "n_samples": 500000,
+      "n_qrs_annotations": 713,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca392",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 370.0,
+      "n_samples": 370000,
+      "n_qrs_annotations": 569,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca410",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 144.0,
+      "n_samples": 144000,
+      "n_qrs_annotations": 203,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca416",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 315.0,
+      "n_samples": 315000,
+      "n_qrs_annotations": 503,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca436",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 580.0,
+      "n_samples": 580000,
+      "n_qrs_annotations": 879,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca444",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 1375.0,
+      "n_samples": 1375000,
+      "n_qrs_annotations": 2028,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca445",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 186.0,
+      "n_samples": 186000,
+      "n_qrs_annotations": 252,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca473",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 200.0,
+      "n_samples": 200000,
+      "n_qrs_annotations": 310,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca515",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 820.0,
+      "n_samples": 820000,
+      "n_qrs_annotations": 1222,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca571",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 920.0,
+      "n_samples": 920000,
+      "n_qrs_annotations": 1362,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca585",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 545.0,
+      "n_samples": 545000,
+      "n_qrs_annotations": 808,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca595",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 345.0,
+      "n_samples": 345000,
+      "n_qrs_annotations": 507,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca597",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 1500.0,
+      "n_samples": 1500000,
+      "n_qrs_annotations": 2169,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca621",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 1030.0,
+      "n_samples": 1030000,
+      "n_qrs_annotations": 1585,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca629",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 385.0,
+      "n_samples": 385000,
+      "n_qrs_annotations": 547,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca649",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 1368.0,
+      "n_samples": 1368000,
+      "n_qrs_annotations": 2032,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca659",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 630.0,
+      "n_samples": 630000,
+      "n_qrs_annotations": 879,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca699",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 335.0,
+      "n_samples": 335000,
+      "n_qrs_annotations": 571,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca711",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 840.0,
+      "n_samples": 840000,
+      "n_qrs_annotations": 1199,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca733",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 1200.0,
+      "n_samples": 1200000,
+      "n_qrs_annotations": 1620,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca746",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 835.0,
+      "n_samples": 835000,
+      "n_qrs_annotations": 1135,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca748",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 318.0,
+      "n_samples": 318000,
+      "n_qrs_annotations": 451,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca771",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 2780.0,
+      "n_samples": 2780000,
+      "n_qrs_annotations": 3739,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca776",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 500.0,
+      "n_samples": 500000,
+      "n_qrs_annotations": 776,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca811",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 330.0,
+      "n_samples": 330000,
+      "n_qrs_annotations": 451,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca816",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 670.0,
+      "n_samples": 670000,
+      "n_qrs_annotations": 1030,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca826",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 270.0,
+      "n_samples": 270000,
+      "n_qrs_annotations": 389,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca840",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 320.0,
+      "n_samples": 320000,
+      "n_qrs_annotations": 451,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca848",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 365.0,
+      "n_samples": 365000,
+      "n_qrs_annotations": 522,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca864",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 635.0,
+      "n_samples": 635000,
+      "n_qrs_annotations": 967,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca868",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 220.0,
+      "n_samples": 220000,
+      "n_qrs_annotations": 372,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca876",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 234.0,
+      "n_samples": 234000,
+      "n_qrs_annotations": 332,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca880",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 440.0,
+      "n_samples": 440000,
+      "n_qrs_annotations": 592,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca886",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 425.0,
+      "n_samples": 425000,
+      "n_qrs_annotations": 607,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca896",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 300.0,
+      "n_samples": 300000,
+      "n_qrs_annotations": 432,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca900",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 114.0,
+      "n_samples": 114000,
+      "n_qrs_annotations": 158,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca902",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 324.0,
+      "n_samples": 324000,
+      "n_qrs_annotations": 474,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca906",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 2025.0,
+      "n_samples": 2025000,
+      "n_qrs_annotations": 2949,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca968",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 570.0,
+      "n_samples": 570000,
+      "n_qrs_annotations": 902,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca986",
+      "n_channels": 5,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3"
+      ],
+      "fs": 1000.0,
+      "duration_s": 360.0,
+      "n_samples": 360000,
+      "n_qrs_annotations": 518,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca997",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 165.0,
+      "n_samples": 165000,
+      "n_qrs_annotations": 252,
+      "qrs_symbols": [
+        "N"
+      ]
+    },
+    {
+      "record": "ecgca998",
+      "n_channels": 6,
+      "labels": [
+        "Thorax_1",
+        "Thorax_2",
+        "Abdomen_1",
+        "Abdomen_2",
+        "Abdomen_3",
+        "Abdomen_4"
+      ],
+      "fs": 1000.0,
+      "duration_s": 225.0,
+      "n_samples": 225000,
+      "n_qrs_annotations": 406,
+      "qrs_symbols": [
+        "N"
+      ]
+    }
+  ],
+  "errors": []
+}

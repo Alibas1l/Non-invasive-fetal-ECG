@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fetal ECG Extraction (offline, in-browser)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <h1>Fetal ECG Extraction</h1>
+    <p class="subtitle">
+      Runs entirely in your browser via WebAssembly &mdash; no upload, no network
+      connection needed after this page loads. Upload a CSV of abdominal ECG
+      sensor data to extract the fetal heartbeat.
+    </p>
+
+    <section class="upload-panel">
+      <label for="csv-input" class="file-label">
+        <input id="csv-input" type="file" accept=".csv" />
+        <span>Choose CSV file</span>
+      </label>
+      <div class="csv-hint">
+        Expected format: 3 columns (abdominal channels 1&ndash;3), one row per
+        sample, 1000&nbsp;Hz sampling rate, no header row required.
+      </div>
+      <div id="status" class="status"></div>
+    </section>
+
+    <section id="results" class="results" hidden>
+      <div class="metric-row">
+        <div class="metric">
+          <span class="metric-label">Estimated fetal heart rate</span>
+          <span id="fhr-value" class="metric-value">&ndash;</span>
+        </div>
+        <div class="metric">
+          <span class="metric-label">Beats detected</span>
+          <span id="beats-value" class="metric-value">&ndash;</span>
+        </div>
+        <div class="metric">
+          <span class="metric-label">Inference time</span>
+          <span id="time-value" class="metric-value">&ndash;</span>
+        </div>
+      </div>
+
+      <div class="chart-block">
+        <h2>Input signal (channel 1, first 10s)</h2>
+        <canvas id="chart-input" width="1000" height="160"></canvas>
+      </div>
+      <div class="chart-block">
+        <h2>Extracted fetal ECG waveform</h2>
+        <canvas id="chart-wave" width="1000" height="160"></canvas>
+      </div>
+      <div class="chart-block">
+        <h2>Fetal QRS detection probability</h2>
+        <canvas id="chart-qrs" width="1000" height="160"></canvas>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
